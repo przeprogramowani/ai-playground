@@ -1,4 +1,4 @@
-# Przeprogramowani - Warsztat Programisty
+# Przeprogramowani - Warsztat Programisty AI
 
 ![](./_resources/logo.png)
 
